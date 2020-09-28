@@ -33,7 +33,7 @@ bower_components
 build/Release
 
 # Compiled directory
-dist/
+#dist/
 storybook-static/
 
 # Package lock file
